@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    /* width: 600px; */
+    background-color:hsl(30, 54%, 90%) ;
+    padding: 40px;
+    font-size: small;
+
+}
+.card{
+    width: 600px;
+    margin: auto;
+    background-color:hsl(0, 0%, 100%) ;
+    padding: 20px;
+    border-radius: 15px;
+    color: hsl(30, 10%, 34%);
+    
+
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  /* font-weight: <weight>; */
+  font-style: normal;
+
+
+}
+img{
+    width: 600px;
+    border-radius: 15px;
+}
+h1{
+    
+    text-transform: capitalize;
+    padding: 15px;
+    color: hsl(24, 5%, 18%);
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+section{
+    padding: 20px;
+    line-break: 5;
+    color: hsl(30, 10%, 34%);
+    
+
+}
+
+h2{
+    padding: 15px;
+    color: hsl(14, 45%, 36%);
+    
+  /* font-family: "Young Serif", serif; */
+  /* font-weight: 400; */
+  /* font-style: normal; */
+
+  
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+
+
+
+
+}
+.sect{
+    background-color: hsl(330, 100%, 98%);
+}
+.tip{
+    color: hsl(332, 51%, 32%);
+    font-size: 15px;
+}
+p{
+    padding: 15px;
+}
+.tin{
+    color: hsl(14, 45%, 36%);
+}
+p{
+    font-size: small;
+}
+
+/* @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Outfit:wght@100..900&family=Young+Serif&display=swap'); */
+
+
+
+
+/* @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap'); */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+
+table{
+    /* border-bottom: 10px; */
+    /* justify-content: space-between; */
+}
+
+
+tr {
+    /* justify-content: space-between; */
+    /* border-bottom: 2px solid hsl(332, 51%, 32%); */
+}
+
+.table-row {
+    border-bottom: 1px solid rgb(187, 186, 186);
+    text-align: left;
+    padding: 10px;
+    /* background-color: red */
+
+}
+
+
+
+
+table {
+    border-collapse: collapse;
+
+    width: 100%;
+    /* border: 2px solid hsl(332, 51%, 32%); */
+
+
+}
+.lip{
+    color: hsl(14, 45%, 36%);
+    padding: 10px;
+
+}
